@@ -1,7 +1,7 @@
 # Shopify-Fall-2021-Internship-Application
 
 
-(images/Slide1.jpg)
+images/Slide1.jpg
 (images/Slide2.jpg)
 (images/Slide3.jpg)
 (images/Slide4.jpg)

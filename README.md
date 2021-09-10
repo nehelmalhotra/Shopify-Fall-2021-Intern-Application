@@ -1,4 +1,4 @@
-# Shopify-Winter-2021-Internship-Application
+# Shopify-Winter-2022-Internship-Application
 
 
 ![Introduction](slides/Slide_1.jpg)

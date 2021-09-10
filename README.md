@@ -1,7 +1,7 @@
 # Shopify-Winter-2021-Internship-Application
 
 
-![Introduction](slides/Slide_1.JPG)
+![Introduction](slides/Slide_1.jpg)
 
 ![Introduction](slides/Slide2.JPG)
 ![Introduction](slides/Slide3.JPG)
